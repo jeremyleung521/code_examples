@@ -1,0 +1,7 @@
+name: implicit_diala
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scikit-learn
+  - jupyterlab

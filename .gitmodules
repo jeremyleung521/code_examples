@@ -1,0 +1,4 @@
+[submodule "custom_order_resampler/WESTPA"]
+	path = custom_order_resampler/WESTPA
+	url = https://github.com/jeremyleung521/westpa
+	branch = custom_order_resampler
