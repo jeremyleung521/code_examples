@@ -2,6 +2,3 @@
 	path = custom_order_resampler/WESTPA
 	url = https://github.com/jeremyleung521/westpa
 	branch = custom_order_resampler
-[submodule "mphat"]
-	path = mphat
-	url = https://github.com/jeremyleung521/mphat
